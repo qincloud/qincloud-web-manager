@@ -1,0 +1,14 @@
+[
+		{ "id":"11", "pId":"0", "name":"产品管理"},
+		{ "id":"112", "pId":"11", "name":"添加产品",  "page":"addproductpage.action"},
+		{ "id":"113", "pId":"11", "name":"产品列表(全部产品)","page":"listpage.action"},
+		{ "id":"114", "pId":"11", "name":"管理分区", "page":"page_base_subarea.action"},
+		{ "id":"115", "pId":"11", "name":"管理定区/调度排班","page":"page_base_decidedzone.action"},
+		{ "id":"12", "pId":"0", "name":"用户管理"},
+		{ "id":"121", "pId":"12", "name":"用户列表(全部用户)" ,"page":"user/page.action"},
+		{ "id":"122", "pId":"12", "name":"工作单快速录入" ,"page":"page_qupai_quickworkorder.action"},
+		{ "id":"124", "pId":"12", "name":"工作单导入" ,"page":"page_qupai_workorderimport.action"},
+		{ "id":"13", "pId":"0", "name":""},
+		{ "id":"131", "pId":"13", "name":"查台转单","page":""},
+		{ "id":"132", "pId":"13", "name":"人工调度","page":"page_qupai_diaodu.action"}
+]
